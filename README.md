@@ -2,6 +2,7 @@
 ECS784U Project
 
 Dataset used for most results was ufc_fighters_2.csv
+
 Dataset used in Data Selection section was ufc_fighters_6.csv
 
 Please also find Abbreviation.txt to refer to abbreviated terms throughout the report.
