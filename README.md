@@ -1,6 +1,8 @@
 # MMA-Classification
 ECS784U Project
 
+Project aimed to classify UFC fighters based on target variable Type with limited sample size dataset.
+
 Dataset used for most results was ufc_fighters_2.csv
 
 Dataset used in Data Selection section was ufc_fighters_6.csv
